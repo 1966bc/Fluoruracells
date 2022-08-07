@@ -11,3 +11,7 @@ Peripheral Blood Mononuclear Cells", Fluoruracells aid laboratory thecnichian du
 to calculate the volume of PBS to be used to bring the cell concentration to to give a concentration of 2–4 * 10^6 cells per 64 µL.
 
 Written in Python on Debian 10 on summer MMXXI.
+
+after downloading and unzip the file execute fluorouracells.py
+
+regards
