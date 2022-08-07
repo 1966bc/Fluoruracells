@@ -28,7 +28,7 @@ class Main(ttk.Frame):
 
         self.parent = parent
 
-        self.font_size = tk.IntVar()
+        
         self.wbc = tk.IntVar()
         self.lower_wbc_limit = tk.IntVar()
         self.higher_wbc_limit = tk.IntVar()
@@ -39,9 +39,7 @@ class Main(ttk.Frame):
         self.counters = tk.StringVar()
 
         self.vcmd = self.master.get_validate_integer(self)
-
-        self.font_size.set(self.master.read_file("font_size"))
-
+        
         self.init_menu()
         self.init_status_bar()
         self.init_ui()
