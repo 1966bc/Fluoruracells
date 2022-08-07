@@ -176,7 +176,7 @@ class Main(ttk.Frame):
                     #print(x,y)
 
                     if x in range(self.min_allowable_cells.get(), self.max_allowable_cells.get()):
-                        array.append("PBS {0:2d}{1} Sample {2:2d}{3} cells {4:7d}".format(y, '\u03BC', i, '\u03BC', x))
+                        array.append("PBS {0:2d}{1}l Sample {2:2d}{3}l cells {4:7d}".format(y, '\u03BC', i, '\u03BC', x))
 
             elif self.wbc.get() < 2000:
                 for i in range(32, 65):
@@ -184,7 +184,7 @@ class Main(ttk.Frame):
                     y = pbs - i
 
                     if x in range(self.min_allowable_cells.get(), self.max_allowable_cells.get()):
-                        array.append("PBS {0:2d}{1}l Sample {2:2d}{3} cells {4:7d}".format(y, '\u03BC', i, '\u03BC', x))
+                        array.append("PBS {0:2d}{1}l Sample {2:2d}{3}l cells {4:7d}".format(y, '\u03BC', i, '\u03BC', x))
 
             self.set_values(array)
 
