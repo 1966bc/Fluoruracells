@@ -24,4 +24,4 @@ These results were showed in the listbox, allowing the laboratory technician to 
 
 
 
-regards
+Regards.
