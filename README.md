@@ -1,6 +1,9 @@
 # Fluoruracells
 Help laboratory technicians during the performance of  5-Fluorouracil Degradation Rate Method technique
 
+
+![alt tag](https://user-images.githubusercontent.com/5463566/183284758-6170a173-22bd-4370-8a3b-12db9396e485.png)
+
 According with the articol "A Liquid Chromatography–Tandem Mass Spectrometry Method for the Determination of 5-Fluorouracil Degradation Rate by Intact Peripheral Blood Mononuclear Cells" 
 
 
