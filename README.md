@@ -19,7 +19,6 @@ After downloading and unzip the file execute fluorouracells.py.
 In the entry box input the cell counts obtained from an automatic citometer such as Advia 2120 Siemens Healthcare, 
 
 Sysmex XE 2100 TOA Medical Electronics, Alinity q Abbott, and the algorithm will calculate all the possible combination for the volume of both PBS, mixed 
-
 cells and cells number.
 
 These results were showed in the listbox, allowing the laboratory technician to choose the best combination.
